@@ -76,3 +76,10 @@ Shopping system user Interface (UI), in GUI or text-based.
 This GUI or text-based program should allow the user/shopkeeper to implement all four
 functionalities described above in the scope (point 4) and consequently communicate with the 
 server
+
+## GUI 
+Login:
+![Screenshot 2024-03-02 124029](https://github.com/doolun1312/Python-Store_automatic_system/assets/132755399/7f51ef55-664d-409d-8be4-d8253d886027)
+
+Menu:
+![Screenshot 2024-03-02 124311](https://github.com/doolun1312/Python-Store_automatic_system/assets/132755399/a3735901-3332-47cc-8cc2-bd8e80350d6b)
