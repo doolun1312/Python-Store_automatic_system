@@ -1,4 +1,4 @@
-# CST1510 Programming for data communication and networks 2021/22
+# CST1510 Programming for data communication and networks 2021/22 coursework
 
 ## Brief Task Description
 Design and implement 'Store automatic system' similar to the Apple store, allowing the staff 
